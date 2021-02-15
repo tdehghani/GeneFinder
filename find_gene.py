@@ -11,7 +11,6 @@ import xlrd
 import os
 import openpyxl
 from tkinter import*
-import PySimpleGUI as SG
 import re
 from xlrd import XLRDError
   
